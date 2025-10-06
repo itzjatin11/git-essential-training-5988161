@@ -20,7 +20,5 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  
 }
